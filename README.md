@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Advait</h1>
-<h3 align="center">Currently a junior at IIT Delhi, pursuing my B.Tech.</h3>
+<h3 align="center">Junior at IIT Delhi, pursuing my B.Tech.</h3>
 
-- 🚀 Currently working on **GenAI and Computer Vision projects**
+- 🚀 Currently working on **GenAI and NLP projects**
 
 - 🔭 Have worked on **Deep Learning projects**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **advait.iitdelhi@gmail.com**
 
-- ⚡ Fun fact **I produce music and make songs**
+- ⚡ Fun fact : **I produce music and make songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
