@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Advait</h1>
+<h1 align="center"><a href="https://yoadvait.carrd.co">Hello, I'm Advait</a></h1>
 <h3 align="center">Junior at IIT Delhi, pursuing my B.Tech.</h3>
 
 - 🚀 Currently working on **GenAI and NLP projects**
